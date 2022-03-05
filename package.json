@@ -79,7 +79,9 @@
               "unknown",
               "unmatched_returns",
               "overspecs",
-              "specdiffs"
+              "specdiffs",
+              "missing_return",
+              "extra_return"
             ]
           },
           "default": []
